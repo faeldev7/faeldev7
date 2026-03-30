@@ -12,10 +12,10 @@
 - Já participei de um GoIt da TCS na escola
 - tenho 18 anos, e estudei na escola Marista Social Irmão Acácio
 
-  ## contato
+## Contato
 
-  - linkedin: Rafael Mastellini
-  - Email: rafaelmastellini01@gmail.com
+- linkedin: Rafael Mastellini
+- Email: rafaelmastellini01@gmail.com
 
 
 
